@@ -3,8 +3,8 @@ import java.sql.DriverManager;
 
 
 public class Conexao {
-	private static final String USUARIO = "root";
-    private static final String SENHA = "root";
+	private static final String USUARIO = "root"; //usuario
+    private static final String SENHA = "root"; //senha
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/aula";
     private static final String DRIVER = "com.mysql.jdbc.Driver";
 
