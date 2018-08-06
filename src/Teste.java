@@ -8,7 +8,7 @@ public class Teste {
 		try {
 			conn.abrir();
 			
-			kjashdiaushjduaih
+		
 			
 			System.out.println("deu certo");
 		} catch (Exception e) {
